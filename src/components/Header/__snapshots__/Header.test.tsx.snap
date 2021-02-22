@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component snapshot 1`] = `
+<div
+  className="css-1t6ajz4"
+>
+  <span
+    className="header-title"
+  >
+    Waste an hour having fun
+  </span>
+</div>
+`;

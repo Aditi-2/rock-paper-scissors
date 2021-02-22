@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Scores Component snapshot 1`] = `
+<div
+  className="css-9i3zow"
+>
+  <div
+    className="playerOne"
+  >
+    <p>
+      You
+    </p>
+    <span
+      className="css-1aylpg"
+    >
+      2
+    </span>
+  </div>
+  <div
+    className="playerTwo"
+  >
+    <p>
+      Computer
+    </p>
+    <span
+      className="css-1aylpg"
+    >
+      3
+    </span>
+  </div>
+</div>
+`;

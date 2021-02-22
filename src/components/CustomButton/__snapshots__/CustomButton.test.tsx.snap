@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomButton Component snapshot 1`] = `
+<button
+  className="custom-btn ripple css-zsodnc"
+  onClick={[MockFunction]}
+>
+  button
+</button>
+`;

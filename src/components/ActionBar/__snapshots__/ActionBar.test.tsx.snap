@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActionBar Component snapshot 1`] = `
+<div
+  className="css-10obzey"
+>
+  <button
+    className="custom-btn ripple css-zsodnc"
+    onClick={[Function]}
+  >
+    Play again
+  </button>
+  <button
+    className="custom-btn ripple css-zsodnc"
+    onClick={[Function]}
+  >
+    End game
+  </button>
+</div>
+`;
